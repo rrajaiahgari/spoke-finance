@@ -1,4 +1,5 @@
 include: "//customer/views/hub_users.view.lkml"
+connection: "rachana-bq-public-dataset-customer"
 
 view: +users {
   dimension: full_name{
