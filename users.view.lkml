@@ -10,5 +10,5 @@ view: +users {
  }
 
 explore: +users {
-  group_label: " Hub-spoke demo"
+  group_label: "Hub-spoke demo"
 }
