@@ -9,4 +9,6 @@ view: +users {
   }
  }
 
-explore: +users {}
+explore: +users {
+  group_label: " Hub-spoke demo"
+}
